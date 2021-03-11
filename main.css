@@ -1,0 +1,164 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&family=Roboto:wght@100&display=swap');
+
+body {
+    background-color: rgb(245, 222, 204);
+    margin-right: 13%;
+    margin-left: 14%; 
+}
+
+.mainheader {
+    color: goldenrod;
+    border: goldenrod solid 6px;   
+    margin-right: 25%;
+    text-align: center;
+    font-size: 90px;
+    float: right;
+    margin-left: 25%;
+    background-color: rgb(12, 12, 160);
+
+}
+
+.nav {
+    font-size: 28px;
+   text-align: center;
+    border: orange solid round 7px;
+}
+.nav li.active a {
+    border: 1px solid orange;
+}
+
+.nav li a:hover {
+    border: 1px solid ivory;
+}
+
+.mainpage1 {
+    color: whitesmoke;
+    border: goldenrod solid 6px;   
+    margin-right: 46%;
+    font-size: 39px;
+    text-align: center;
+    background-color: rgb(12, 12, 160);
+}
+
+.picRight {
+    float: left;
+    width: 550px;
+    height: 585px;
+    padding: 3px;
+    border: orange solid 7px;
+}
+
+.mainpage2 {
+    color: whitesmoke;
+    border: goldenrod solid 6px;   
+    font-size: 39px;
+    margin-left: 46%;
+    text-align: left;
+    background-color: rgb(12, 12, 160)
+}
+
+.picLeft {   
+    float: right;
+    width: 599px;
+    height: 500px;
+    padding: 3px;
+    border: orange solid 7px;
+}
+
+.assempic1 {
+    width: 550px;
+    height: 585px;
+    padding: 3px;
+    border: orange solid 7px;
+}
+
+.points {
+    border: goldenrod 6px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 500%;
+}
+
+.bheader {
+    color: goldenrod;
+    border: goldenrod solid 6px;   
+    margin-right: 25%;
+    text-align: center;
+    font-size: 100px;
+    float: left;
+    margin-left: 25%;
+    background-color: rgb(12, 12, 160);
+
+}
+
+.picmap {
+    float: right;
+    width: 670px;
+    height: 550px;
+    padding: 3px;
+    border: orange solid 7px;
+}
+
+.battle {
+    color: whitesmoke;
+    border: goldenrod solid 6px;   
+    margin-right: 46%;
+    font-size: 39px;
+    text-align: center;
+    background-color: rgb(12, 12, 160);
+    border-radius: 5%;
+}
+
+.orkriders {
+    float: left;
+    width: 550px;
+    height: 585px;
+    padding: 3px;
+    border: orange solid 7px;
+}
+
+.rules {
+    color: whitesmoke;
+    border: goldenrod solid 6px;   
+    font-size: 39px;
+    margin-left: 48%;
+    border-radius: 5%;
+    text-align: left;
+    background-color: rgb(12, 12, 160)
+
+}
+
+.picmap {
+    float: right;
+    width: 670px;
+    height: 550px;
+    padding: 3px;
+    border: orange solid 7px;
+}
+
+.ourbattle {
+    color: whitesmoke;
+    border: goldenrod solid 6px;   
+    margin-right: 46%;
+    font-size: 39px;
+    text-align: left;
+    background-color: rgb(12, 12, 160);
+    border-radius: 5%;
+    margin-top: 15%;
+}
+
+.picbwdragon {
+    float: left;
+    width: 550px;
+    height: 585px;
+    padding: 3px;
+    border: orange solid 7px;
+}
+
+.wall {
+    float: right;
+    width: 550px;
+    height: 585px;
+    padding: 1px;
+    border: orange solid 7px;
+}

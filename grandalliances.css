@@ -1,0 +1,129 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&display=swap');
+
+
+body {
+    background-color: rgb(245, 222, 204);
+    margin-right: 13%;
+    margin-left: 14%; 
+}
+
+.gaheader{
+    color: goldenrod;
+    border: goldenrod solid 6px;   
+    margin-right: 25%;
+    text-align: center;
+    font-size: 90px;
+    float: right;
+    margin-left: 25%;
+    background-color: rgb(12, 12, 160);
+}
+.nav {
+    font-size: 28px;
+    text-align: center;
+    border: orange solid round 7px;
+}
+
+.image {
+    width: 50%;
+    height: 50%;
+    border: 1px;
+}
+
+.gatitle {
+     color: orange;
+     font-size: 50px;
+    text-align: center;
+}
+
+.body {
+    border: solid orange 6px;
+}
+
+.header {
+    text-align: center;
+    color: whitesmoke;
+    border: goldenrod solid 6px;   
+    font-size: 39px;
+    background-color: rgb(12, 12, 160);
+}
+
+h2 {
+    text-align: center;
+    word-spacing: 1cm;
+    font-size: 60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.orderinfo {
+    color: whitesmoke;
+    border: goldenrod solid 6px;   
+    margin-right: 39%;
+    font-size: 35px;
+    text-align: left;
+    background-color: rgb(12, 12, 160);
+    font-family: 'Merriweather', serif;
+}
+.pic1{
+    float: right;
+    width: 550px;
+    height: 585px;
+    border: orange solid 7px;
+    text-align: right;
+}
+
+.deathinfo {
+    color: whitesmoke;
+    border: goldenrod solid 6px;   
+    margin-right: 39%;
+    font-size: 35px;
+    text-align: left;
+    background-color: rgb(12, 12, 160);
+    background-origin: right;
+    font-family: 'Merriweather', serif;
+}
+
+.pic2 {
+    float: right;
+    width: 550px;
+    height: 585px;
+    border: orange solid 7px;
+}
+
+.chaosinfo {
+    color: whitesmoke;
+    border: goldenrod solid 6px;   
+    margin-right: 39%;
+    font-size: 35px;
+    text-align: left;
+    background-color: rgb(12, 12, 160);
+    background-origin: left;
+    font-family: 'Merriweather', serif;
+    padding: 2px;
+}
+
+.pic3 {
+    float: right;
+    width: 550px;
+    height: 585px;
+    border: orange solid 7px;
+}
+
+.destructioninfo {
+    color: whitesmoke;
+    border: goldenrod solid 6px;   
+    margin-right: 39%;
+    font-size: 35px;
+    text-align: left;
+    background-color: rgb(12, 12, 160);
+    background-origin: left;
+    font-family: 'Merriweather', serif;
+    padding: 2px;
+}
+
+.pic4 {
+    float: right;
+    width: 550px;
+    height: 585px;
+    border: orange solid 7px;
+}
